@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://github.com/threewill/.github/blob/main/profile/ThreeWill-Labs.png" width="400" height="200" alt="ThreeWill Labs"></p>
+<p align="center"><img src="https://github.com/threewill/.github/blob/main/profile/ThreeWill-Labs.png" width="600" height="230" alt="ThreeWill Labs"></p>
 
 ## ThreeWill Labs 👋
 
