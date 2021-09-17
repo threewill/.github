@@ -1,8 +1,5 @@
 
-<p align="center"><img src="https://github.com/threewill/.github/blob/main/profile/ThreeWill-Labs.png" alt="ThreeWill Labs"></p>
-
-## ThreeWill Labs 👋
-
+<img src="https://github.com/threewill/.github/blob/main/profile/ThreeWill-Labs%20small.png" alt="ThreeWill Labs">
 <!--
 
 **Here are some ideas to get you started:**
