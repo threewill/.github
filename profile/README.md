@@ -1,5 +1,5 @@
 
-<img src="https://github.com/threewill/.github/blob/main/profile/ThreeWill-Labs-xs.png" alt="ThreeWill Labs">
+<img src="https://github.com/threewill/.github/blob/main/profile/ThreeWill-Labs small.png" alt="ThreeWill Labs">
 <!--
 
 **Here are some ideas to get you started:**
